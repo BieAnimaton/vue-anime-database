@@ -68,6 +68,12 @@ a {
   text-decoration: none;
 }
 
+.app {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 header {
   padding-top: 50px;
   padding-bottom: 50px;

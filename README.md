@@ -1,12 +1,13 @@
 # Vue Anime Database
 
-## Original project by Tyler Potts, on "Vue Anime Database" (link below) :point_up:
+## Original project by Tyler Potts, on "Build an ANIME Search Database in Vue 3 ~ Jikan Anime API for beginners
+" (link below) :point_up:
 - https://www.youtube.com/watch?v=AI5lsNeVyO8
 
 This is project to Searh Anime in Vue using Jikan API
 https://jikan.moe/
 
-## Image
+## Image :camera:
 ![vad1](https://user-images.githubusercontent.com/52220244/149942172-1342e1f6-051c-4c57-928f-0ae117857429.JPG)
 
 ![vad2](https://user-images.githubusercontent.com/52220244/149942181-a2a20ed0-b71b-431b-93f7-0b354eb00305.JPG)
